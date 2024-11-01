@@ -27,19 +27,19 @@ git clone <repository-url>
 cd spy_cat_agency
 ```
 Install Dependencies:
-Manually install the necessary packages:
+Manually install the necessary packages
 
 ```
 pip install django djangorestframework requests
 ```
 
 Apply Migrations:
-Set up the necessary database tables:
+Set up the necessary database tables
 ```
 python manage.py migrate
 ```
 Run the Development Server:
-Start the Django development server:
+Start the Django development server
 ```
 python manage.py runserver
 ```
