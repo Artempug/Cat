@@ -45,5 +45,5 @@ python manage.py runserver
 ```
 
 API Endpoints:
-Explore the API endpoints using Postman
+After starting Django development server explore the API endpoints using Postman
 [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/39434734-ded9a1e8-e43a-439d-b736-357398b67d5b?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D39434734-ded9a1e8-e43a-439d-b736-357398b67d5b%26entityType%3Dcollection%26workspaceId%3D80060c85-07cc-4e69-a0bb-465a89881d72)
