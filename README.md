@@ -8,7 +8,7 @@
 The **Cat** is designed to manage cats, missions, and targets efficiently. Built with **Django** and **Django REST Framework**, it provides a robust RESTful API for performing CRUD (Create, Read, Update, Delete) operations on the core models of the application.
 
 ## 🚀 Features
-- **Manage Spy Cats**: Keep track of all your spy cats and their details.
+- **Manage Cats**: Keep track of all your spy cats and their details.
 - **Mission Control**: Create, assign, and track missions effectively.
 - **Target Management**: Handle targets and their statuses with ease.
 - **RESTful API**: Seamlessly interact with the application via API endpoints.
