@@ -5,7 +5,7 @@
 ![Django REST Framework](https://img.shields.io/badge/DRF-3.x-lightgrey)
 
 ## 📖 Overview
-The **Spy Cat Agency Application** is designed to manage spy cats, missions, and targets efficiently. Built with **Django** and **Django REST Framework**, it provides a robust RESTful API for performing CRUD (Create, Read, Update, Delete) operations on the core models of the application.
+The **Cat** is designed to manage spy cats, missions, and targets efficiently. Built with **Django** and **Django REST Framework**, it provides a robust RESTful API for performing CRUD (Create, Read, Update, Delete) operations on the core models of the application.
 
 ## 🚀 Features
 - **Manage Spy Cats**: Keep track of all your spy cats and their details.
