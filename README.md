@@ -1,4 +1,4 @@
-# 🐾 Spy Cat Agency Application
+# 🐾 Cat  Application
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Django](https://img.shields.io/badge/Django-3.x-green)
